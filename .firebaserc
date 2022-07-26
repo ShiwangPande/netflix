@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "netflix-clone-d0a12",
+    "staging": "netflix-clone-d0a12"
+  },
+  "targets": {}
+}
